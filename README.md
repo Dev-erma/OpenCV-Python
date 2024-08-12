@@ -1,1 +1,1 @@
-# OpenCV-Python
+# Rock Paper Scissor Game
